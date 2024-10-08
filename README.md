@@ -95,6 +95,7 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 
 Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato conosco:
 
+https://www.canva.com/design/DAGSjsWQPuI/GhhcGc6zVCAJL0DnusVHzQ/edit?utm_content=DAGSjsWQPuI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 - Email: insidere.contato@gmail.com
 - Site: [insidere.com](https://insider-e.github.io/InsiderE/)
 
